@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aplicativo de dado do Luiz</string>
+    <string name="jogar">Jogar</string>
+    <string name="textview">TextView</string>
+</resources>
